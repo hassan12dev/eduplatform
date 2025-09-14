@@ -24,11 +24,7 @@ export default function Navbar() {
               Courses
             </Link>
           </li>
-          <li>
-            <Link to="/pricing" className="hover:text-blue-600">
-              Plan & Pricing
-            </Link>
-          </li>
+         
           <li>
             <Link to="/contact" className="hover:text-blue-600">
               Contact
